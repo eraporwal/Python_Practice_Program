@@ -1,0 +1,11 @@
+a=2
+b=2
+c=a**b
+print(c)
+a=4
+print(a)
+a-=3
+print(a)
+a=5
+b=6
+print(a<b)
