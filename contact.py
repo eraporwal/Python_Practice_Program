@@ -28,6 +28,7 @@ for i in range(num):
 l=getdata()
 print("data is :\n")
 l1=l.split(",")
+print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ")
 print("NAME   |   ADDRESS   |   NUMBER")
 print("_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ")
 n=1
