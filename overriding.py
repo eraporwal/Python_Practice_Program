@@ -1,14 +1,14 @@
 
+class my:
+    def area(self, length , breadth):
+        area=length*breadth
+        return area
 
-def area(length , breadth):
-    area=length*breadth
-    return area
-    
-def area(radius):
-    area=radius*radius*3.14
-    return area
+        
 
-print(area(2.5))
-print(area(2, 3))
+c=my()
+print(c.area(2, 3))
+
+
 
 
